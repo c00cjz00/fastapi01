@@ -16,9 +16,9 @@ from fastapi.staticfiles import StaticFiles
 from fastai.vision.all import *
 
 ## 服務器
-import nest_asyncio
-from pyngrok import ngrok
-import uvicorn
+#import nest_asyncio
+#from pyngrok import ngrok
+#import uvicorn
 
 
 # 載入 FASTAPI
